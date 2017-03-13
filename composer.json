@@ -1,0 +1,7 @@
+{
+  "require": {
+    "php": ">=5.4",
+    "google/cloud": "^0.20",
+    "twbs/bootstrap": "^3.3"    
+  }
+}
