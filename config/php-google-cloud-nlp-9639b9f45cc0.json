@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "igneous-shell-161507",
+  "private_key_id": "9639b9f45cc02d0826b5ced1e815b94eb5158997",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvAIBADANBgkqhkiG9w0BAQEFAASCBKYwggSiAgEAAoIBAQC1VEHh7H/w/Ggc\n0VwvZ3GHnH1oZ9CCK9l79QHIHC6EtF5DQcEM3ZV6p3q/HOPTHKP+4ZqZdrp/6WTB\nDrk6wHn3mwSD9dHlOwzZ7UALvwtqwKFsQTjGpLpY1OIf8Xdx5fFaKiRIPq3YtWP2\nW1EGGSUuKOMCUcbZmydtGbXb5t5YJi2UxDe2yZo4oJGv0XpoIuNfWE4eP+THlstI\nKVzT3Ymo+IzFeDXHDJUz9wqEHNlJOb2d9hGgxDy+TYxRQN7jx5xF/Jd9l6sqhyWk\ntp4RJwHWvy3xFqzJzBqqY51uqX0Q75Y3Q0r8yA3U+4clahtS3xwxy/EkZAc79Kju\ns5txcJkxAgMBAAECggEAMnsLgF7721YZkfRDCrtsoslRLHDCXorgmB7EaTZXSQCB\nwY2btf42MBhSFsRvNIWjrkCWbqTcFOIf95MmxBFzoxgX8LjNv1hqIn1nOB3uisCn\n7+BUcxDHBBX4AdaSXzYZs/VJdodklJEjDCGt89mqPSiK0kl753bHShs/QsIKIlW+\nFweK3bCJmDph+bI8im0JGCJhYLogheUIDpAeVIuql5eqbkVKU5Phqxcg4iC2K9SC\njZV15pTNTdF4XLErpqqlmDzpF0AeJWWwb3TFKXGGR7HPzwjx9ynRYcqQ8AP5w3Aq\nZu4O7Of1Htm5gZyk6lKMqrQG1U6lmALOHHRKFXxY9QKBgQDs9/Qhy0tkLNrFbFvq\nuEYkQhgdnrFkfkSdVV6DOMetOrncYKwGGw9UegPuNG9wAKlyl7lJbtktptMYFuCk\nk9o/Pb4872BLuUhsLniP6QqUy9DtMpmD4XeYLB69QXlDy5TbMzhXYsOP4QFLpVDE\nH4Z3XZUN3bjMmr0Fi9yLp/LzfwKBgQDD5F0Aur4pWdtY12bTPPPOfXhnyzvseyNf\nN8Djq8EqoxxpD08lPARc/FWVC+XsxtI8CaWWrZuWbalQ2l3dn8ZaVv5sO44qHc20\nhVZOgD7j+4JRSgFHKEmdJOBxoVcX5hjphywcAxliV52QqlEfFxEZRUvmKWvH+KPx\nlBy4H38LTwKBgDCKxn7ZtzLpIVOJ0/ZsEypAQ9JlfK86UnHsV/UHf5fTzNkBEJwb\nlPNYH0//e8h0ykFIJVOOmnyIjPuFTDVKeE22Jy8yVgaNCPHoPxgzw9AhREYitGHY\noPgSKaXZMK8bl/2jK2pzN95UWECXt8jFMHVpPSxe/AkltYzaTq5pFBKfAoGADUY3\nSypcYn71TzLhg+T4fICiHR53hBHgFr63cnYcE+CTt0bTTSmg/hAXWI9C2GWsr2bT\n8r728R2jQJhbjf4audp1SS5L9uyoGNiEPbORD2/mp82FAqZnPp/WGb0eIr9z5rdD\nNO681J4tTjVMY/fzL6wzdXhPFnDx4xfvTkbMHB8CgYAvJnv12l+1l8Mu31SdasNs\n+EqDXqKzNDN4mJYhD5Evj/bnMdRVs4wiU1IikrD9fSVtwY5EkkUMigTfK88s0Iam\nBWeK3sMbI/YEV3ZgyyE/JYMQD4+JuH/epxvLpLbS/PNYnoha7yMd7nN4hRMCl/TP\nf87+DaS7VuTWD9pvBIIqCw==\n-----END PRIVATE KEY-----\n",
+  "client_email": "php-nlp@igneous-shell-161507.iam.gserviceaccount.com",
+  "client_id": "100576429564387488781",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://accounts.google.com/o/oauth2/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/php-nlp%40igneous-shell-161507.iam.gserviceaccount.com"
+}
