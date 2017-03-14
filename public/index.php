@@ -51,10 +51,10 @@
       <div class="jumbotron">
         <h2>Google Cloud Natural Language processor</h2>
         <p>Enter a sentence and receive a detailed Natural language analysis</p>
-        <form>
+        <form name="sentenceInput" id="sentence-form" action="analyze.php" method="POST">
             <div class="form-group">
                 <label for="sentence">Sentence</label>
-                <textarea class="form-control" id="sentence" placeholder="Enter one or more sentences." rows="5"></textarea>
+                <textarea class="form-control" id="sentence" name="sentence" placeholder="Enter one or more sentences." rows="5"></textarea>
             </div>            
             <button type="submit" class="btn btn-primary">Submit</button>
         </form>
